@@ -1,0 +1,69 @@
+# Flight Log
+ - Date
+ - Time
+ - Place
+   - Address
+   - Lat/Long
+   - Ground Level Altitude
+ - UAS ID
+ - Weight, if loaded
+ - RPIC
+ - Mission
+ - Preflight
+   - VO
+     - Comms frequency
+     - Phone
+   - Ops Over People
+     - Category
+     - Informed Consent
+     - RemoteID
+     - Reasonable Cover
+     - Notes
+   - Airspace
+     - Class
+     - Special Use Airspaces
+     - NOTAMs Checked
+     - Clearance Needed
+     - Clearance Given
+     - Contact
+     - Notes
+   - Other Situational Awareness
+     - Roads/people. Busy?
+     - Power and Telecoms lines?
+     - Nearby CTAF monitoring
+   - Weather
+     - Temp
+     - Windspeed and direction
+     - <80% of UAS max speed?
+     - Cloud cover? 
+     - Cloud ceiling
+   - Battery charge
+   - Transmitter charge
+   - Aircraft propellers ok
+   - Camera ready
+   - GPS connection
+   - Compass Calibration
+ - Flight notes
+   - Each takeoff and landing time
+   - Minutes of flight
+   - Battery % at end
+   - Max altitude
+   - Max speed
+ - Postflight
+   - Power off
+   - Inspect for damage
+     - Propellers
+     - Body
+     - Payload/Camera
+   - Clean UAS
+   - Repairs needed? 
+
+# Maintenance Log
+ - Date
+ - Name
+ - UAS ID
+ - Repair/Routine
+ - Owner's Manual Relevant Page
+ - Parts used
+ - Notes
+ - Cost of repair
